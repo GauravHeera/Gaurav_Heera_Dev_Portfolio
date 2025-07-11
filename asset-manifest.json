@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Gaurav_Heera_Dev_Portfolio/static/css/main.ba9adac8.css",
+    "main.js": "/Gaurav_Heera_Dev_Portfolio/static/js/main.e19a4e9f.js",
+    "static/js/453.a22a4657.chunk.js": "/Gaurav_Heera_Dev_Portfolio/static/js/453.a22a4657.chunk.js",
+    "static/media/portfolio.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/portfolio.0bec17f8bc85f5f76d35.jpeg",
+    "static/media/codingBg.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/codingBg.3d86739b051473e4c602.jpg",
+    "static/media/canva.png": "/Gaurav_Heera_Dev_Portfolio/static/media/canva.617ab2404399a9fb8c6c.png",
+    "static/media/toppicks_tech.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/toppicks_tech.985714ea2d2b42b72aba.jpg",
+    "static/media/bootstrap-icons.woff?": "/Gaurav_Heera_Dev_Portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/wpd.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/wpd.ad441fab8da69e164c74.jpg",
+    "static/media/calculator.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/calculator.a0ac801bb28be0b48943.jpeg",
+    "static/media/copilot.png": "/Gaurav_Heera_Dev_Portfolio/static/media/copilot.962725de3c87b8049e0e.png",
+    "static/media/php.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/php.e4560d77464af78233fb.jpg",
+    "static/media/mysql.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/mysql.151b6374880e698d91af.jpg",
+    "static/media/bootstrap-icons.woff2?": "/Gaurav_Heera_Dev_Portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/jquery.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/jquery.7604443d0ef85b511035.jpg",
+    "static/media/angular.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/angular.96867e9eb0e1d450cadf.jpg",
+    "static/media/vc_code_icon.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/vc_code_icon.1cd41d8751099ca8538f.jpg",
+    "static/media/jquery.png": "/Gaurav_Heera_Dev_Portfolio/static/media/jquery.eb105fbbfb1112c72276.png",
+    "static/media/json_img.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/json_img.88dfc43de1e54efb09e8.jpg",
+    "static/media/rest_api.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/rest_api.001f4f18a8903fd89553.jpg",
+    "static/media/wordpress.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/wordpress.9f25c49e679c1be57526.jpg",
+    "static/media/mysql.png": "/Gaurav_Heera_Dev_Portfolio/static/media/mysql.8f5ebd8ce0c3fd351bb5.png",
+    "static/media/css.jpg": "/Gaurav_Heera_Dev_Portfolio/static/media/css.f33590b169ce265391ed.jpg",
+    "static/media/JS.png": "/Gaurav_Heera_Dev_Portfolio/static/media/JS.94503703382b0332fa30.png",
+    "static/media/React.png": "/Gaurav_Heera_Dev_Portfolio/static/media/React.60daf01b68943de8bf7f.png",
+    "static/media/html.png": "/Gaurav_Heera_Dev_Portfolio/static/media/html.5cba3fe6cb159bb27b52.png",
+    "static/media/node.png": "/Gaurav_Heera_Dev_Portfolio/static/media/node.50340f00d62b4f58b82e.png",
+    "static/media/shopify.png": "/Gaurav_Heera_Dev_Portfolio/static/media/shopify.f10acbe15e9d5335a0dd.png",
+    "static/media/php.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/php.f1ef1c599f2cc0479880.jpeg",
+    "static/media/python.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/python.b2bf33bdedd5a4bbe738.jpeg",
+    "index.html": "/Gaurav_Heera_Dev_Portfolio/index.html",
+    "main.ba9adac8.css.map": "/Gaurav_Heera_Dev_Portfolio/static/css/main.ba9adac8.css.map",
+    "main.e19a4e9f.js.map": "/Gaurav_Heera_Dev_Portfolio/static/js/main.e19a4e9f.js.map",
+    "453.a22a4657.chunk.js.map": "/Gaurav_Heera_Dev_Portfolio/static/js/453.a22a4657.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba9adac8.css",
+    "static/js/main.e19a4e9f.js"
+  ]
+}

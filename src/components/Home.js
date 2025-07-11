@@ -18,7 +18,7 @@ const Home = () => {
             <Toggler/>
 
 
-            <div className="intro-wrap homeObj">
+            <div className="intro-wrap">
 
                 <div className="name-wrap">
 

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Gaurav_Heera_Dev_Portfolio/static/css/main.9544558b.css",
+    "main.css": "/Gaurav_Heera_Dev_Portfolio/static/css/main.ab32b689.css",
     "main.js": "/Gaurav_Heera_Dev_Portfolio/static/js/main.006c37c9.js",
     "static/js/453.a22a4657.chunk.js": "/Gaurav_Heera_Dev_Portfolio/static/js/453.a22a4657.chunk.js",
     "static/media/portfolio.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/portfolio.0bec17f8bc85f5f76d35.jpeg",
@@ -31,12 +31,12 @@
     "static/media/php.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/php.f1ef1c599f2cc0479880.jpeg",
     "static/media/python.jpeg": "/Gaurav_Heera_Dev_Portfolio/static/media/python.b2bf33bdedd5a4bbe738.jpeg",
     "index.html": "/Gaurav_Heera_Dev_Portfolio/index.html",
-    "main.9544558b.css.map": "/Gaurav_Heera_Dev_Portfolio/static/css/main.9544558b.css.map",
+    "main.ab32b689.css.map": "/Gaurav_Heera_Dev_Portfolio/static/css/main.ab32b689.css.map",
     "main.006c37c9.js.map": "/Gaurav_Heera_Dev_Portfolio/static/js/main.006c37c9.js.map",
     "453.a22a4657.chunk.js.map": "/Gaurav_Heera_Dev_Portfolio/static/js/453.a22a4657.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9544558b.css",
+    "static/css/main.ab32b689.css",
     "static/js/main.006c37c9.js"
   ]
 }
